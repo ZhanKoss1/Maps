@@ -3512,9 +3512,9 @@
         "HASC_1": "KZ.AM",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 496,
         "geo_code": "_",
-        "ru_name": "Aqmola"
+        "ru_name": "Акмолинская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4933,9 +4933,9 @@
         "HASC_1": "KZ.AT",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 497,
         "geo_code": "_",
-        "ru_name": "Aqtöbe"
+        "ru_name": "Актюбинская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12827,9 +12827,9 @@
         "HASC_1": "KZ.EK",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 500,
         "geo_code": "_",
-        "ru_name": "EastKazakhstan"
+        "ru_name": "Восточно-Казахстанская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16768,9 +16768,9 @@
         "HASC_1": "KZ.MG",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 506,
         "geo_code": "_",
-        "ru_name": "Mangghystau"
+        "ru_name": "Мангистауская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21329,9 +21329,9 @@
         "HASC_1": "KZ.NK",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 508,
         "geo_code": "_",
-        "ru_name": "NorthKazakhstan"
+        "ru_name": "Северо-Казахстанская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25859,9 +25859,9 @@
         "HASC_1": "KZ.QG",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 503,
         "geo_code": "_",
-        "ru_name": "Qaraghandy"
+        "ru_name": "Карагандинская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27332,9 +27332,9 @@
         "HASC_1": "KZ.QS",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 504,
         "geo_code": "_",
-        "ru_name": "Qostanay"
+        "ru_name": "Костанайская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30969,9 +30969,9 @@
         "HASC_1": "KZ.QO",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 505,
         "geo_code": "_",
-        "ru_name": "Qyzylorda"
+        "ru_name": "Кызылординская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31626,9 +31626,9 @@
         "HASC_1": "KZ.SK",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 509,
         "geo_code": "_",
-        "ru_name": "SouthKazakhstan"
+        "ru_name": "Южно-Казахстанская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33275,9 +33275,9 @@
         "HASC_1": "KZ.WK",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 502,
         "geo_code": "_",
-        "ru_name": "WestKazakhstan"
+        "ru_name": "Западно-Казахстанская область"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36304,9 +36304,9 @@
         "HASC_1": "KZ.ZM",
         "ISO_1": "NA",
         "code": "_",
-        "region_id": null,
+        "region_id": 501,
         "geo_code": "_",
-        "ru_name": "Zhambyl"
+        "ru_name": "Жамбылская область"
       },
       "geometry": {
         "type": "MultiPolygon",
